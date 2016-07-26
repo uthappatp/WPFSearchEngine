@@ -1,0 +1,15 @@
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\log4net.config
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\Log4NetLibrary.dll
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\Log4NetLibrary.pdb
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\bin\Debug\log4net.dll
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.csprojResolveAssemblyReference.cache
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.dll
+D:\Office\VS2012 Projects\Log4Net\Log4NetFrameworkSolution\Log4NetLibrary\obj\Debug\Log4NetLibrary.pdb
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\bin\Debug\log4net.config
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\bin\Debug\Log4NetLibrary.dll
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\bin\Debug\Log4NetLibrary.pdb
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\obj\Debug\Log4NetLibrary.csprojResolveAssemblyReference.cache
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\obj\Debug\Log4NetLibrary.dll
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\obj\Debug\Log4NetLibrary.pdb
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\bin\Debug\log4net.dll
+D:\Office\VS2012 Projects\MSSearch\Log4NetLibrary\bin\Debug\log4net.xml

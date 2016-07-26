@@ -1,0 +1,15 @@
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\MSSearchProvider.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\MSSearchProvider.pdb
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Newtonsoft.Json.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Newtonsoft.Json.xml
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\obj\Debug\MSSearchProvider.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\obj\Debug\MSSearchProvider.pdb
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\obj\Debug\MSSearchProvider.csprojResolveAssemblyReference.cache
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\log4net.config
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Log4NetLibrary.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\log4net.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Log4NetLibrary.pdb
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\log4net.xml
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Office\VS2012 Projects\MSSearch\MSSearchProvider\bin\Debug\Microsoft.Practices.ServiceLocation.xml
